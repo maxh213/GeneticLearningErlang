@@ -10,7 +10,7 @@
 %Half the previous generation was wiped out and so they are replaced by children of the successful.
 
 %It will take a fraction of the time if you give a population size of 400 or less.
-%However a larger population will get the job done in loess generations and is easier to watch.
+%However a larger population will get the job done in less generations and is easier to watch.
 -define(POPULATION_SIZE, 4000).
 -define(TARGET, "I'm learning!").
 
